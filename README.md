@@ -130,7 +130,7 @@ Servicios independientes: empleado_microservicio, tienda_microservicio,
 
 ### 1. Requisitos previos
 
-- Java 24 instalado
+- Java 25 instalado
 - Maven instalado
 - XAMPP (o MySQL) corriendo en el puerto 3306
 - Usuario MySQL: `root` sin contraseña (o ajustar en cada `application.properties`)
