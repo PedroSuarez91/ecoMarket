@@ -5,7 +5,7 @@
 
 ## Tecnologías utilizadas
 
-- Java 24
+- Java 25
 - Spring Boot 4.0.6
 - Spring Data JPA
 - MySQL (XAMPP / MySQL local)
